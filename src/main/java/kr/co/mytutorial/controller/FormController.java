@@ -1,7 +1,5 @@
 package kr.co.mytutorial.controller;
 
-import javax.xml.crypto.Data;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -10,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import kr.co.mytutorial.model.Student;
 
-@Controller()
+@Controller
 @RequestMapping("form")
 public class FormController {
 

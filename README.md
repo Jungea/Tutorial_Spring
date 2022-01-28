@@ -9,6 +9,7 @@ File > Import > Maven > Existing Maven Projects
 :heavy_exclamation_mark: 만약 maven 관련 오류가 날 경우 : 프로젝트 우 클릭 > Maven > Update Project
 
 ## 목차
-[1. Spring-Starter-Project](https://github.com/Jungea/Tutorial_Spring/wiki/Spring-Starter-Project)  
-[2. Spring-Form](https://github.com/Jungea/Tutorial_Spring/wiki/Spring-Form)  
-[3. Spring-Mybatis](https://github.com/Jungea/Tutorial_Spring/wiki/Spring-Mybatis)  
+[1. Spring-Starter-Project](https://github.com/Jungea/Tutorial_Spring/wiki/1.-Spring-Starter-Project)  
+[2. Spring-Form](https://github.com/Jungea/Tutorial_Spring/wiki/2.-Spring-Form)  
+[3. Spring-Mybatis](https://github.com/Jungea/Tutorial_Spring/wiki/3.-Spring-Mybatis)  
+
